@@ -1,0 +1,5 @@
+Iteration 1:
+
+Percentage right guesses: 90.0
+Avg times to guess: 4
+

@@ -1,0 +1,11 @@
+/Users/sumi/projects/wordle/src/main/java/common/WordDictionary.java
+/Users/sumi/projects/wordle/src/main/java/solver/Solver.java
+/Users/sumi/projects/wordle/src/main/java/solver/clues/LengthClue.java
+/Users/sumi/projects/wordle/src/main/java/game/Wordle.java
+/Users/sumi/projects/wordle/src/main/java/common/Guess.java
+/Users/sumi/projects/wordle/src/main/java/solver/clues/WrongLetterClue.java
+/Users/sumi/projects/wordle/src/main/java/solver/clues/AbstractClue.java
+/Users/sumi/projects/wordle/src/main/java/solver/clues/WrongPositionClue.java
+/Users/sumi/projects/wordle/src/main/java/solver/NoValidCandidateException.java
+/Users/sumi/projects/wordle/src/main/java/solver/clues/RightLetterClue.java
+/Users/sumi/projects/wordle/src/main/java/common/Result.java
